@@ -1,0 +1,22 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+Çözüm:
+Aşama 1:    Root 7'dir.
+Aşama 2:    5,Root'un solunda bulunur.
+Aşama 3:    1, Root'un ve 5'in solunda bulunur.
+Aşama 4:    8, Root'un sağındadır.
+Aşama 5:    3, Root'un solunda bulunur.
+Aşama 6:    6,Root'un sağındadır.
+Aşama 7:    0,Root'un solundadır.
+Aşama 8:    9,Root'un sağındadır.
+Aşama 9:    4,Root'un solundadır.
+Aşama 10:   2,Root'un solundadır.
+
+Son Aşama:      7
+		5						8
+
+	1		6							9
+
+  0	    3
+
+	2	4
